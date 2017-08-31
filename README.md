@@ -1,2 +1,2 @@
 # node-sandbox
-node sandbox
+node sandbox, express, nodemon
